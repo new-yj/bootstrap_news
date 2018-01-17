@@ -1,0 +1,27 @@
+{
+  "name": "bootstrap_news",
+  "version": "1.0.0",
+  "description": "Develope a news website in bootstrap",
+  "main": "webpack.config.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "webpack": "^3.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yijiongwtt/bootstrap_news.git"
+  },
+  "author": "YiJiong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yijiongwtt/bootstrap_news/issues"
+  },
+  "homepage": "https://github.com/yijiongwtt/bootstrap_news#readme"
+}
